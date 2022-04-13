@@ -1,0 +1,65 @@
+body{
+
+  background-color:#efefef ;
+
+
+}
+legend{
+    text-align: center;
+    margin-bottom: 10px;
+
+
+}
+
+
+.global{
+    width: 300px;
+    background-color:#fff ;
+    padding: 40px;
+    margin-left: 40%;
+    margin-top: 100px;
+    
+}
+
+div{
+
+    display: flex;
+    flex-direction: column;
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+
+
+
+}
+textarea{
+
+    
+    border: none;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+
+
+}
+label{
+
+    margin-bottom: 20px;
+
+
+}
+button{
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    border-radius: 50px;
+    border: none;
+    background-color:#5880de ;
+    color: #fff;
+    font-size: 8px ;
+    margin-left: 60px;
+
+
+
+}

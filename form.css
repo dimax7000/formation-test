@@ -1,0 +1,46 @@
+body{
+  background-color: #efefef;
+
+
+}
+
+
+
+.global{
+       width: 350px;
+       margin: auto;
+       padding: 50px;
+       background-color: #fff;
+
+
+}
+legend{
+  text-align: center;
+  margin-top: -20px;
+
+}
+
+form{
+   width: 300px;
+
+
+}
+form label{
+   display: flex;
+   margin-top: 20px;
+
+
+}
+
+form input{
+  width: 100%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  border-bottom: 1px solid black;
+  padding: 7px;
+ 
+
+
+}
